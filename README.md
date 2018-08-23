@@ -1,0 +1,2 @@
+# html
+html> &lt;host> &lt;title> pagina 1 &lt;/title> &lt;/host> &lt;body background="download.jpg"> &lt;center> &lt;font face="arial" size=7 color=red> &lt;P>&lt;b> etec adial nunes silva&lt;/b>&lt;/p> &lt;hr N55> &lt;/font> &lt;/center> &lt;font face="arial" size=7 color="red"> &lt;p>&lt;u>*TAquanringa&lt;/u>&lt;/p> &lt;/font> &lt;font face="arial" size=7 color="red"> &lt;p>&lt;i>*1 densenvolvimento De sistema&lt;i>&lt;/p> &lt;/font> &lt;font face="arial" size=7 color="red"> &lt;p>&lt;SUP> *Programaçao web 1 &lt;/SUP>&lt;/P> &lt;/body> &lt;/html>
